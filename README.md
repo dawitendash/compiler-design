@@ -4,8 +4,7 @@
 
 ## ID Number: WDU145838
 
-### Colab Link:
-[My Colab Notebook](https://colab.research.google.com/drive/1ahFfoe5GHnyzQQ55UfS3eqYwyHcooU5l?usp=sharing)
+### Colab Link:[My Colab Notebook](https://colab.research.google.com/drive/1ahFfoe5GHnyzQQ55UfS3eqYwyHcooU5l?usp=sharing)
 
 ## Assignment Overview
 This project contains a series of Lex programs developed to solve various problems related to text analysis, validation, and basic computation. The programs were designed to handle specific tasks, ranging from counting characters, words, and spaces in a given text, to validating emails, passwords, and URLs. Additionally, there are programs that recognize human language scripts, handle simple arithmetic operations, and validate university student IDs.
